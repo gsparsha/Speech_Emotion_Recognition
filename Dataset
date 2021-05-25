@@ -1,2 +1,3 @@
 Downloaded the dataset from :https://drive.google.com/file/d/1wWsrN2Ep7x6lWqOXfr4rpKGYrJhWc8z7/view
-A sample of the dataset is also present as file 'Actor 01'.
+The dataset is in the form of folder which consist of the emotions displayed through voice by diffent people and the files are of '.wav' type.
+A sample of the dataset is also present as file 'Actor_01'.
