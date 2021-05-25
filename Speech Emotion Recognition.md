@@ -10,6 +10,9 @@ we will use the libraries librosa, soundfile, and sklearn (among others) to buil
 
 
 The feature extraction is done which extracts the features:
+
 --mfcc: Mel Frequency Cepstral Coefficient, represents the short-term power spectrum of a sound
+
 --chroma: Pertains to the 12 different pitch classes
+
 --mel: Mel Spectrogram Frequency
